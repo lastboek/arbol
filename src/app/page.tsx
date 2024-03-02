@@ -1,5 +1,5 @@
-import Head from "next/head";
-import Link from "next/link";
+// import Head from "next/head";
+// import Link from "next/link";
 import { X, Instagram, Mail } from "react-feather";
 
 function Subscribe() {
